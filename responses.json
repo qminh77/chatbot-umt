@@ -4,7 +4,7 @@
         "answer": "UMT (Trường Đại học Quản lý và Công nghệ TP.HCM) là trường đại học tiên phong, đột phá về đào tạo, nghiên cứu và quản trị, với chương trình học khai phóng, sáng tạo, chuẩn quốc tế, đáp ứng nhu cầu nhân lực chất lượng cao và công dân toàn cầu trong thế giới số 4.0."
     },
     {
-        "keywords": ["ngành học", "chương trình đào tạo", "umt học ngành gì", "chuyên ngành"],
+        "keywords": ["ngành học", "chương trình đào tạo", "umt học ngành gì", "chuyên ngành", "môn học"],
         "answer": "UMT đào tạo các ngành: Công nghệ thông tin (Kỹ thuật phần mềm, Khoa học dữ liệu và AIOT, Hệ thống thông tin), Truyền thông đa phương tiện (Quan hệ công chúng, Quản trị sản xuất truyền thông), Thiết kế đồ họa (Thiết kế truyền thông thị giác, Nghệ thuật tạo hình), Quản lý thể dục thể thao (Quản lý thể thao và fitness, Quản lý sự kiện), Marketing (Marketing số, Quản trị thương hiệu), Quản trị kinh doanh (Kế toán quản trị, Quản trị điều hành, Kinh doanh số), Kinh doanh quốc tế (Thương mại quốc tế), và Bất động sản."
     },
     {
@@ -152,7 +152,7 @@
         "answer": "Ngành Marketing tại UMT đào tạo Marketing số, Quản trị thương hiệu, ứng dụng công nghệ 4.0, kết nối với Unilever, ZaloPay, và thực tập để sẵn sàng bứt phá trong thị trường lao động."
     },
     {
-        "keywords": ["quản trị kinh doanh", "ngành qtkd umt", "học qtkd ở umt"],
+        "keywords": ["quản trị kinh doanh", "ngành qtkd", "học qtkd ở umt", "qtkd"],
         "answer": "Ngành Quản trị kinh doanh tại UMT đào tạo Kế toán quản trị, Quản trị điều hành, Kinh doanh số, với vườn ươm khởi nghiệp, thực tập tại Unilever, và huấn luyện từ doanh nhân trẻ."
     },
     {
@@ -184,7 +184,7 @@
         "answer": "UMT đào tạo tư duy phản biện qua các môn như Tư duy và tranh luận, Phương pháp tư duy và giải quyết vấn đề, giúp sinh viên xử lý thông tin, lập luận, và ra quyết định hiệu quả."
     },
     {
-        "keywords": ["mỹ học", "học nghệ thuật umt", "cảm thụ nghệ thuật"],
+        "keywords": ["mỹ học", "học nghệ thuật umt", "cảm thụ âm nhạc"],
         "answer": "UMT cung cấp các môn Mỹ học như Cảm thụ âm nhạc, Hội họa, Văn chương, Sân khấu - Điện ảnh, khơi gợi cảm xúc thẩm mỹ và tăng khả năng sáng tạo cho công việc và cuộc sống."
     },
     {
@@ -200,11 +200,11 @@
         "answer": "Sinh viên UMT tham gia trải nghiệm quân trường trực tiếp tại trường, rèn luyện ý thức kỷ luật, tinh thần đồng đội, và kỹ năng sống trong môi trường thực tế."
     },
     {
-        "keywords": ["đối tác giáo dục", "trường quốc tế umt", "hợp tác giáo dục"],
+        "keywords": ["đối tác giáo dục", "trường quốc tế", "hợp tác giáo dục"],
         "answer": "UMT hợp tác với các tổ chức giáo dục như UNESCO, FIBAA, AUN-QA, và các trường như Curtin University, Bangkok University, đảm bảo chất lượng đào tạo và cơ hội trao đổi quốc tế."
     },
     {
-        "keywords": ["công việc tại trường", "việc làm sinh viên umt", "làm việc tại umt"],
+        "keywords": ["công việc tại trường", "việc làm sinh viên", "làm việc tại umt"],
         "answer": "UMT cung cấp cơ hội làm việc tại trường như trợ giảng, gia sư, đại sứ hướng nghiệp, marketing, giúp sinh viên phát triển kỹ năng và có thu nhập trong quá trình học."
     },
     {
@@ -280,55 +280,55 @@
         "answer": "Ngành Bất động sản tại UMT: Năm 1 học nền tảng kinh tế, Tiếng Anh; Năm 2 học pháp luật BĐS, quản trị; Năm 3 học tài chính, đầu tư BĐS; Năm 4 thực tập tại Kiến Á, DKRA Group và đề án tốt nghiệp."
     },
     {
-        "keywords": ["danh sách giảng viên", "giảng viên umt", "ai dạy ở umt", "giáo viên umt"],
+        "keywords": ["danh sách giảng viên", "giảng viên umt", "ai dạy ở umt", "về giảng viên", "giáo viên umt", "giảng viên trường", "ds giảng viên"],
         "answer": "UMT có đội ngũ giảng viên gồm PGS. TS. Cao Minh Trí, PGS. TS. Trần Đan Thư, TS. Lê Thị Ngọc Tú, TS. Lý Lê Tường Minh, ThS. Võ Đình Văn, TS. Nguyễn Thị Như Thuận, TS. Phạm Văn Huy, TS. Nguyễn Vũ Hiệu Trung, TS. Võ Thị Minh Nhựt, ThS. Lâm Thùy Trang, ThS. Nguyễn Việt Hải, và nhiều giảng viên khác, với trình độ cao và kinh nghiệm thực tiễn."
     },
     {
-        "keywords": ["giảng viên cao minh trí", "pgs ts cao minh trí", "cao minh trí umt"],
+        "keywords": ["giảng viên cao minh trí", "pgs ts cao minh trí", "cao minh trí umt", "cao minh trí"],
         "answer": "PGS. TS. Cao Minh Trí là giảng viên UMT, chuyên gia trong lĩnh vực quản lý và công nghệ, có nhiều năm kinh nghiệm nghiên cứu và giảng dạy, truyền cảm hứng qua phương pháp đào tạo khai phóng, kết hợp lý thuyết và thực tiễn."
     },
     {
-        "keywords": ["giảng viên trần đan thư", "pgs ts trần đan thư", "trưởng khoa cntt umt"],
+        "keywords": ["giảng viên trần đan thư", "pgs ts trần đan thư", "trưởng khoa cntt umt", "trần đan thư"],
         "answer": "PGS. TS. Trần Đan Thư, Trưởng khoa CNTT UMT, hơn 30 năm kinh nghiệm trong lĩnh vực CNTT, nguyên Trưởng khoa CNTT ĐH Khoa học Tự nhiên (ĐHQG TP.HCM), đào tạo nhiều chuyên gia công nghệ, kết nối sinh viên với Google, Shopee."
     },
     {
-        "keywords": ["giảng viên lê thị ngọc tú", "ts lê thị ngọc tú", "trưởng khoa kinh doanh umt"],
+        "keywords": ["giảng viên lê thị ngọc tú", "ts lê thị ngọc tú", "trưởng khoa kinh doanh umt", "lê thị ngọc tú"],
         "answer": "TS. Lê Thị Ngọc Tú, Trưởng khoa Kinh doanh UMT, Tiến sĩ Kinh tế học tại Đại học Goerg-August-Göttingen (Đức), hơn 17 năm kinh nghiệm, mạnh về nghiên cứu khoa học, kết nối quốc tế, và hỗ trợ sinh viên khởi nghiệp."
     },
     {
-        "keywords": ["giảng viên lý lê tường minh", "ts lý lê tường minh", "tường minh umt"],
+        "keywords": ["giảng viên lý lê tường minh", "ts lý lê tường minh", "tường minh umt", "lê tường minh"],
         "answer": "TS. Lý Lê Tường Minh, giảng viên UMT, chuyên gia giáo dục liên ngành, đóng góp vào chương trình đào tạo khai phóng, hướng dẫn sinh viên phát triển tư duy sáng tạo và kỹ năng nghề nghiệp toàn cầu."
     },
     {
-        "keywords": ["giảng viên võ đình văn", "thạc sĩ võ đình văn", "võ đình văn umt"],
+        "keywords": ["giảng viên võ đình văn", "thạc sĩ võ đình văn", "võ đình văn umt", "võ đình văn"],
         "answer": "ThS. Võ Đình Văn, giảng viên UMT, có kinh nghiệm thực tiễn phong phú, hỗ trợ sinh viên qua các dự án thực tế, workshop, và kết nối doanh nghiệp, giúp áp dụng kiến thức vào công việc."
     },
     {
-        "keywords": ["giảng viên nguyễn thị như thuận", "ts nguyễn thị như thuận", "như thuận umt"],
+        "keywords": ["giảng viên nguyễn thị như thuận", "ts nguyễn thị như thuận", "như thuận umt", "nguyễn thị như thuận"],
         "answer": "TS. Nguyễn Thị Như Thuận, giảng viên UMT, chuyên sâu về giáo dục liên ngành, hướng dẫn sinh viên phát triển tư duy phản biện, nghiên cứu khoa học, và ứng dụng kiến thức vào thực tiễn."
     },
     {
-        "keywords": ["giảng viên phạm văn huy", "ts phạm văn huy", "phạm văn huy umt"],
+        "keywords": ["giảng viên phạm văn huy", "ts phạm văn huy", "phạm văn huy umt", "phạm văn huy"],
         "answer": "TS. Phạm Văn Huy, giảng viên UMT, có nhiều bài báo khoa học quốc tế, chuyên giảng dạy về các vấn đề đương đại, hỗ trợ sinh viên xây dựng tư duy toàn cầu và kỹ năng nghiên cứu."
     },
     {
-        "keywords": ["giảng viên nguyễn vũ hiệu trung", "ts nguyễn vũ hiệu trung", "hiệu trung umt"],
+        "keywords": ["giảng viên nguyễn vũ hiệu trung", "ts nguyễn vũ hiệu trung", "hiệu trung umt", "nguyễn vũ hiệu trung"],
         "answer": "TS. Nguyễn Vũ Hiệu Trung, giảng viên UMT, chuyên gia trong lĩnh vực công nghệ và quản trị, hướng dẫn sinh viên tham gia dự án thực tế và phát triển kỹ năng sáng tạo, ứng dụng công nghệ 4.0."
     },
     {
-        "keywords": ["giảng viên võ thị minh nhựt", "ts võ thị minh nhựt", "minh nhựt umt"],
+        "keywords": ["giảng viên võ thị minh nhựt", "ts võ thị minh nhựt", "minh nhựt umt", "võ thị minh nhựt"],
         "answer": "TS. Võ Thị Minh Nhựt, giảng viên UMT, có kinh nghiệm nghiên cứu và giảng dạy về quản lý, hỗ trợ sinh viên phát triển kỹ năng lãnh đạo và tư duy chiến lược qua các dự án thực tiễn."
     },
     {
-        "keywords": ["giảng viên lâm thùy trang", "thạc sĩ lâm thùy trang", "thùy trang umt"],
+        "keywords": ["giảng viên lâm thùy trang", "thạc sĩ lâm thùy trang", "thùy trang umt", "lâm thùy trang"],
         "answer": "ThS. Lâm Thùy Trang, giảng viên UMT, chuyên về truyền thông và sáng tạo, hướng dẫn sinh viên tham gia sản xuất sản phẩm truyền thông và phát triển kỹ năng mềm qua workshop."
     },
     {
-        "keywords": ["giảng viên nguyễn việt hải", "thạc sĩ nguyễn việt hải", "việt hải umt"],
+        "keywords": ["giảng viên nguyễn việt hải", "thạc sĩ nguyễn việt hải", "việt hải umt", "nguyễn việt hải"],
         "answer": "ThS. Nguyễn Việt Hải, giảng viên UMT, có bài báo khoa học quốc tế về giáo dục, hỗ trợ sinh viên trong nghiên cứu khoa học và áp dụng kiến thức vào các dự án thực tế."
     },
     {
-        "keywords": ["nghiên cứu khoa học umt", "bài báo khoa học umt", "thành tựu nghiên cứu umt"],
+        "keywords": ["nghiên cứu khoa học umt", "bài báo khoa học umt", "thành tựu nghiên cứu umt", "nckh"],
         "answer": "UMT có hơn 10 bài báo khoa học đăng trên các tạp chí quốc tế như Eurasia Journal, Food Policy, và Journal of Physical Education, nghiên cứu về giáo dục, công nghệ, kinh tế, văn hóa, và thể thao, với sự tham gia của giảng viên như TS. Phạm Văn Huy, ThS. Nguyễn Việt Hải."
     },
     {
@@ -344,11 +344,11 @@
         "answer": "UMT kết nối với Shopee qua workshop 'Truyền thông sáng tạo 4.0 trong thương mại điện tử', giúp sinh viên ngành Truyền thông và Marketing học kỹ năng sáng tạo nội dung và thương mại điện tử."
     },
     {
-        "keywords": ["đối tác zalopay", "hợp tác zalopay umt", "fintech umt"],
+        "keywords": ["zalopay", "hợp tác zalopay umt", "fintech"],
         "answer": "UMT hợp tác với ZaloPay qua workshop 'Đón đầu xu hướng Fintech', cung cấp kiến thức về tài chính công nghệ và cơ hội thực tập cho sinh viên ngành CNTT, Marketing, và Kinh doanh quốc tế."
     },
     {
-        "keywords": ["đối tác dkra group", "hợp tác dkra umt", "bất động sản umt"],
+        "keywords": ["dkra group", "hợp tác dkra umt", "bất động sản umt"],
         "answer": "UMT hợp tác với DKRA Group, cung cấp cơ hội thực tập, workshop, và kết nối mạng lưới doanh nghiệp cho sinh viên ngành Bất động sản, giúp phát triển kỹ năng đầu tư và quản lý BĐS."
     },
     {
@@ -356,7 +356,7 @@
         "answer": "UMT kết nối với Unilever Việt Nam qua các hội thảo và thực tập, giúp sinh viên ngành Quản trị kinh doanh và Marketing học về quản trị thương hiệu và chiến lược kinh doanh thực tế."
     },
     {
-        "keywords": ["chương trình hỗ trợ học vụ", "hỗ trợ học tập umt", "one umt hub học vụ"],
+        "keywords": ["chương trình hỗ trợ học vụ", "hỗ trợ học tập", "one umt hub", "one umt"],
         "answer": "ONE UMT Hub hỗ trợ học vụ như đăng ký học phần, chuyển ngành, bảo lưu, cấp bảng điểm, hoãn thi, phúc khảo, giúp sinh viên quản lý lộ trình học tập hiệu quả từ nhập học đến tốt nghiệp."
     },
     {

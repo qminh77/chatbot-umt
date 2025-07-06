@@ -21,7 +21,7 @@ def save_json(file_path, data):
         json.dump(data, file, ensure_ascii=False, indent=4)
 
 # Hàm lưu lịch sử trò chuyện
-def save_chat_history(user_input, bot_response):
+def save_history(user_input, bot_response):
     history = load_json('chat_history.json')
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
     history[timestamp] = {'user': user_input, 'bot': bot_response}
@@ -55,7 +55,7 @@ def chatbot():
             bot_response = "Tạm biệt! Hẹn gặp lại!"
         else:
             bot_response = find_response(user_input, responses)
-            save_chat_history(user_input, bot_response)
+            save_history(user_input, bot_response)
         
         history = load_json('chat_history.json')
 

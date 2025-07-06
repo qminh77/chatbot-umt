@@ -133,7 +133,6 @@ button:hover {
     background-color: #555555;
 }
 
-/* Responsive Design */
 @media (max-width: 600px) {
     .container {
         margin: 10px;
